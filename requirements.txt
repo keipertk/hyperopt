@@ -50,7 +50,7 @@ scipy==1.6.2
 setuptools
 six==1.15.0
 tensorboard==2.4.0
-tensorboard-plugin-wit==1.6.0
+tensorboard-plugin-wit
 tensorflow==2.4.1
 tensorflow-estimator==2.4.0
 termcolor==1.1.0
