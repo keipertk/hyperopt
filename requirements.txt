@@ -13,7 +13,7 @@ click==7.1.2
 coverage==5.5
 cryptography==3.4.7
 Cython==0.29.22
-flatbuffers==20210226132247
+flatbuffers
 gast==0.4.0
 google-auth==1.28.0
 google-auth-oauthlib==0.4.3
